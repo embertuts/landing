@@ -319,7 +319,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 5607,
+				"buffer_size": 5327,
 				"line_ending": "Unix"
 			}
 		},
@@ -327,7 +327,7 @@
 			"file": "css/styles.css",
 			"settings":
 			{
-				"buffer_size": 7262,
+				"buffer_size": 7257,
 				"line_ending": "Unix"
 			}
 		}
@@ -741,7 +741,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -750,15 +750,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5607,
+						"buffer_size": 5327,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1135,
-								1135
+								4889,
+								4889
 							]
 						],
 						"settings":
@@ -769,10 +769,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 446.0,
+						"translation.y": 1526.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -781,7 +781,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7262,
+						"buffer_size": 7257,
 						"regions":
 						{
 							"bookmarks":
@@ -791,12 +791,12 @@
 								"regions":
 								[
 									[
-										2968,
-										2968
+										2963,
+										2963
 									],
 									[
-										7262,
-										7262
+										7257,
+										7257
 									]
 								],
 								"scope": "bookmarks"
@@ -805,8 +805,8 @@
 						"selection":
 						[
 							[
-								1350,
-								1350
+								1345,
+								1345
 							]
 						],
 						"settings":
@@ -816,10 +816,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1033.0,
+						"translation.y": 763.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -1420,7 +1420,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 273.0,
 	"status_bar_visible": true,
 	"template_settings":
