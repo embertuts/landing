@@ -60,6 +60,7 @@ a.carousel-control:hover {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
+  padding-bottom: 30px;
 }
 /* logo - icon is from fontawesome font */
 .site-title {
@@ -84,7 +85,7 @@ a.carousel-control:hover {
   font-size: 50px;
   color: #ffffff;
   text-shadow: 0 0px 12px rgba(36, 36, 36, 0.55);
-  padding: 0px 0 40px 0;
+  padding: 0px 0 20px 0;
 }
 /* header button - call to action button */
 .header-btn {
@@ -143,6 +144,7 @@ a.carousel-control:hover {
 / -------------------------------------------------- */
 .footer {
   position: relative;
+  padding-bottom: 50px;
 }
 .notify-wrapper {
   position: absolute;
@@ -200,10 +202,11 @@ a.carousel-control:hover {
   padding: 130px 0 0px;
 }
 .footer-info .container {
-  max-width: 500px;
+  max-width: 560px;
 }
 .follow-btn {
   margin-bottom: 50px;
+  margin-left: 12px;
 }
 .follow-btn li {
   background: #363636;
@@ -226,7 +229,7 @@ a.carousel-control:hover {
   display: inline-block;
 }
 .follow-btn li.facebook {
-  margin-left: 33px;
+  margin-left: 63px;
 }
 .follow-btn li.facebook span {
   margin-right: 18px;
@@ -258,8 +261,8 @@ a.carousel-control:hover {
   position: absolute;
   border-top: 2px solid #363636;
   height: 2px;
-  width: 60px;
-  right: -40px;
+  width: 70px;
+  right: -70px;
   top: 50%;
   z-index: -1;
 }
